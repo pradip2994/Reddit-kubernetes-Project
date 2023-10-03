@@ -1,6 +1,6 @@
 # Deployment of a Reddit Clone App on Kubernetes with Ingress
 
-![Untitled Diagram drawio](https://github.com/pradip2994/Reddit-kubernetes-Project/assets/124191442/759e1781-51e5-49ba-adbe-489fa6979191)
+![Untitled Diagram](https://github.com/pradip2994/Reddit-kubernetes-Project/assets/124191442/a20703b8-335d-432c-a244-06905ff2435b)
 
 
 ## Prerequisites
